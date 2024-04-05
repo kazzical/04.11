@@ -1,10 +1,10 @@
 # ALFT: M4L2 - Warm Up
 
-1. Recreate the page below using the box model and any necessary CSS properties.
+1. Recreate the page below using the box model and any necessary CSS properties. Don't worry if the images aren't on the same line.
 
-Bonus: Research flexbox and use it to center the image on the webpage.
+Bonus: Finished early? Now, try to figure out how to get the images on the same line. Hint. Use flexbox.
 
 
 ## Image Reference
-![Lion Screenshot](Lion_Screenshot.png)
+![Sample Screenshot](Sample_Screenshot.png)
 
