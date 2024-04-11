@@ -1,4 +1,15 @@
-html {
-  height: 100%;
-  width: 100%;
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+.lionImage{
+  border: 8px gold ridge;
+margin-left: 5px;
+}
+
+.tigerImage{
+  border: 8px green ridge;
+  margin-left: 10px;
 }
